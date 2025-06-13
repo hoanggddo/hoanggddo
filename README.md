@@ -89,12 +89,8 @@ When I’m not coding, I’m staying active through tennis and basketball—or u
 
 ## 📈 GitHub Activity
 
-- ✅ Weekly contributions (3–5 commits/week)  
-- ✅ Pull requests submitted to open-source repos  
-- ✅ Issues created/responded to  
-- ✅ Active stars/follows to relevant projects  
-- ✅ Clean repository structure and naming conventions  
-- ✅ Major projects pinned and public  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
 
 ---
 
