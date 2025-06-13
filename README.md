@@ -89,7 +89,7 @@ When I’m not coding, I’m staying active through tennis and basketball—or u
 
 ## 📈 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoanggddo&show_icons=true&theme=tokyonight)
 
 
 ---
