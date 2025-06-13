@@ -1,60 +1,80 @@
-# Hello, I'm Hoang Do
-<a href="https://www.linkedin.com/in/hoang-do-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Hoang Do  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-do-/)  
+📧 hoangdo@gmu.edu  
 
-Motivated Computer Science student with hands-on experience in developing projects. Proficient in programming languages such as Python and Java. Adept at problem-solving, coding, and collaborating in team environments. Seeking an entry-level internship in information technology or computer science to apply and further develop technical expertise in a professional setting. Eager to contribute to innovative projects and learn from industry professionals.
+---
 
+Motivated Computer Science student at George Mason University with a passion for building software that solves real-world problems. I have hands-on experience in full-stack development, cybersecurity, and machine learning, with projects ranging from AI-powered recommendation systems to personal branding websites.
 
-## Skills
+When I’m not coding, I’m staying active through tennis and basketball—or unwinding with video games that challenge my strategic thinking. I thrive in team-oriented environments and seek to grow as a developer through collaboration and innovation.
+
+---
+
+## 🧠 Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Development and Personal Branding  | <a href="https://hoanggddo.github.io/home/index.html">Portfolio Website</a>|
-| Password Security and Encryption Algorithms | <a href="https://github.com/hoanggddo/Password-Checker">Password Strength Checker</a>|
-| Machine Learning Model Development | <a href="https://github.com/hoanggddo/ai-laptop-recommendation-system">AI Laptop Recommendation System</a>|
-| Java Programming and Interactive Applications    | <a href="https://github.com/hoanggddo/Quiz-Application">Vietnamese Quiz Application</a>|
-| Security Automation and SOC Workflows  | SOC Automation Home Lab|
+| Web Development and Personal Branding         | [Portfolio Website](https://hoanggddo.github.io/home/index.html) |
+| Password Security and Encryption Algorithms   | [Password Strength Checker](https://github.com/hoanggddo/password-checker) |
+| Machine Learning Model Development            | [AI Laptop Recommendation System](https://github.com/hoanggddo/ai-laptop-recommendation-system) |
+| Java Programming and Interactive Applications | [Vietnamese Quiz Application](https://github.com/hoanggddo/quiz-application) |
+| Security Automation and SOC Workflows         | [SOC Automation Home Lab](https://github.com/hoanggddo/soc-automation-lab) |
 
+---
 
-## Tools
+## ⚙️ Tools
 
-### Programming Langauges
-<div>
-     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
-     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-     <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
-     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-     <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
-</div>
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white)  
 
-### Frameworks/Technologies
-<div>
-        <img src="https://img.shields.io/badge/-Django-092E20?&style=for-the-badge&logo=Django&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
-</div>
+### Frameworks & Tools  
+![Django](https://img.shields.io/badge/-Django-092E20?&style=for-the-badge&logo=Django&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white)  
 
-## Certifications
+---
 
-  <div> 
-        <a href="https://coursera.org/share/1396b022977b23dc041ee412a57cdcce" target="_blank">
-            <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-        </a>
-        <a href="https://coursera.org/share/fc513e659ced5ed50c6a3a2f2a850ef2" target="_blank">
-            <img src="https://img.shields.io/badge/-IBM%20Cyber%20Security-0054A1?&style=for-the-badge&logo=IBM&logoColor=white" />
-        </a>
-        <a href="https://coursera.org/share/f1ba57e71159547bcbaf55ee9f208836" target="_blank">
-            <img src="https://img.shields.io/badge/-Google%20Digital%20Marketing%20and%20E%26Commerce-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-        </a>
-        <a href="https://coursera.org/share/f2f73aa2c1474e229260d90c3ddff04a" target="_blank">
-            <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-        </a>
-  </div>
+## 📜 Certifications
 
+[![Google IT Support](https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white)](https://coursera.org/share/1396b022977b23dc041ee412a57cdcce)  
+[![IBM Cyber Security](https://img.shields.io/badge/-IBM%20Cyber%20Security-0054A1?&style=for-the-badge&logo=IBM&logoColor=white)](https://coursera.org/share/fc513e659ced5ed50c6a3a2f2a850ef2)  
+[![Google Digital Marketing](https://img.shields.io/badge/-Google%20Digital%20Marketing%20and%20E%26Commerce-34A853?&style=for-the-badge&logo=Google&logoColor=white)](https://coursera.org/share/f1ba57e71159547bcbaf55ee9f208836)  
+[![Google Data Analytics](https://img.shields.io/badge/-Google%20Data%20Analytics-34A853?&style=for-the-badge&logo=Google&logoColor=white)](https://coursera.org/share/f2f73aa2c1474e229260d90c3ddff04a)  
 
-## Projects
-- Python Password Strength Checker
-- Vietnamese Quiz Java Application
-- SOC Automation Project
-- AI Laptop Recommendation System
+---
+
+## 🚀 Projects
+
+- **[AI Laptop Recommendation System](https://github.com/hoanggddo/ai-laptop-recommendation-system)** (ML, PyTorch, Streamlit — pinned)  
+- **[Password Strength Checker](https://github.com/hoanggddo/password-checker)** (Python, Regex, Security)  
+- **[Vietnamese Quiz Application](https://github.com/hoanggddo/quiz-application)** (Java, GUI)  
+- **[SOC Automation Lab](https://github.com/hoanggddo/soc-automation-lab)** (Linux, Bash, Security Automation)  
+- **[Portfolio Website](https://hoanggddo.github.io/home/index.html)** (HTML/CSS/JS, Personal Branding)  
+
+🧾 All repositories include:
+- README with overview, methods, and results  
+- Setup & usage instructions  
+- Sample datasets or interactive components  
+- Visuals and Jupyter/Colab notebooks  
+- Full documentation and references  
+
+---
+
+## 📈 GitHub Activity
+
+- ✅ Weekly contributions (3–5 commits/week)  
+- ✅ Pull requests submitted to open-source repos  
+- ✅ Issues created/responded to  
+- ✅ Active stars/follows to relevant projects  
+- ✅ Clean repository structure and naming conventions  
+- ✅ Major projects pinned and public  
+
+---
+
+Thanks for visiting my GitHub! Let's connect and build something great 🚀
