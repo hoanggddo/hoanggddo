@@ -18,7 +18,7 @@ When I’m not coding, I’m staying active through tennis and basketball—or u
 | Password Security and Encryption Algorithms   | [Password Strength Checker](https://github.com/hoanggddo/password-checker) |
 | Machine Learning Model Development            | [AI Laptop Recommendation System](https://github.com/hoanggddo/ai-laptop-recommendation-system) |
 | Java Programming and Interactive Applications | [Vietnamese Quiz Application](https://github.com/hoanggddo/quiz-application) |
-| Security Automation and SOC Workflows         | [SOC Automation Home Lab](https://github.com/hoanggddo/soc-automation-lab) |
+| Security Automation and SOC Workflows         | [SOC Automation Home Lab](https://github.com/hoanggddo/SOC-Home-Lab) |
 
 ---
 
