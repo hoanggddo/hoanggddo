@@ -64,7 +64,7 @@ When I’m not coding, I’m staying active through tennis and basketball—or u
 - **[AI Laptop Recommendation System](https://github.com/hoanggddo/ai-laptop-recommendation-system)** (ML, PyTorch, Streamlit — pinned)  
 - **[Password Strength Checker](https://github.com/hoanggddo/password-checker)** (Python, Regex, Security)  
 - **[Vietnamese Quiz Application](https://github.com/hoanggddo/quiz-application)** (Java, Swing)  
-- **[Portfolio Website](https://hoanggddo.github.io/home/index.html)** (HTML/CSS/JS, Personal Branding)  
+- **[Portfolio Website](https://hoanggddo.github.io/)** (HTML/CSS/JS, Personal Branding)  
 
 🧾 All repositories include:
 - README with overview, methods, and results  
