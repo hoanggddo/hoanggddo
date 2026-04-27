@@ -6,7 +6,7 @@
 
 Motivated Computer Science student at George Mason University with a passion for building software that solves real-world problems. I have hands-on experience in full-stack development, cybersecurity, and machine learning, with projects ranging from AI-powered recommendation systems to personal branding websites.
 
-When I’m not coding, I’m staying active through tennis and basketball—or unwinding with video games that challenge my strategic thinking. I thrive in team-oriented environments and seek to grow as a developer through collaboration and innovation.
+When I’m not coding, I’m staying active through tennis and basketball, or unwinding with video games that challenge my strategic thinking. I thrive in team-oriented environments and seek to grow as a developer through collaboration and innovation.
 
 ---
 
